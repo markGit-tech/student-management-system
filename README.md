@@ -2,7 +2,7 @@
 
 A full-stack web app for managing students and courses, built with **PHP (PDO) + MySQL + Tailwind CSS + Vanilla JS**.
 
-**Live site:** `https://firstname-lastname.infinityfreeapp.com`  *(replace with your URL)*
+**Live site:** `https://marcgajo.infinityfreeapp.com`  
 
 ## 🔑 Test Credentials (for grading)
 
