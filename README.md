@@ -7,6 +7,10 @@ Live site: https://marcgajo.infinityfreeapp.com
 - Email: admin@school.test
 - Password: Admin@123
 
+## Student account
+- Email: gajo@gmail.com
+- Password: qwer1234
+
 ## Project Structure
 
 ```
